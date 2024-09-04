@@ -345,12 +345,7 @@ class _UserScreenState extends State<UserScreen> {
               ),
               onPressed: () {},
             ),
-            // Image.asset(
-            //   'assets/logo.jpeg',
-            //   width: 100, // Adjust the width as needed
-            //   height: 100, // Adjust the height as needed
-            //   fit: BoxFit.cover, // Adjust the fit as needed
-            // ),
+           
             const SizedBox(height: 16.0),
             // Centered Search Bar
             Center(
