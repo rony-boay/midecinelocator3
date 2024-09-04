@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84676724997",
+    "project_id": "med4-6ff0c",
+    "storage_bucket": "med4-6ff0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84676724997:android:9de9c5a71bdc574b794f6c",
+        "android_client_info": {
+          "package_name": "com.example.midecinelocator3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2e5fypbvbLIDWZIyUK1xYNh5RwTUzso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
