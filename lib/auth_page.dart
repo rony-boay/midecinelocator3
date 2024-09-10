@@ -176,7 +176,7 @@ class _AuthPageState extends State<AuthPage> {
                       fillColor: Colors.white,
                     ),
                   ),
-                  SizedBox(height: 10),
+                  SizedBox(height: 9),
                   ElevatedButton(
                     onPressed: _selectLocation,
                     child: Text(
