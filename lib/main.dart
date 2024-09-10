@@ -345,7 +345,7 @@ class _UserScreenState extends State<UserScreen> {
               ),
               onPressed: () {},
             ),
-           
+          
             const SizedBox(height: 16.0),
             // Centered Search Bar
             Center(
